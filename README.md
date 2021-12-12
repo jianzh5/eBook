@@ -2,6 +2,8 @@
 
 JAVA领域必看 **经典** 书籍，当然也欢迎各位联系我进行补充或者直接提PR。
 
+![联系方式](https://b3logfile.com/file/2021/01/image-a3579d1a.png)
+
 ## JAVA基础
 
 * Effective Java 中文版
